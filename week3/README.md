@@ -1,6 +1,6 @@
 ## 3주차 과제
 
-* https://nbviewer.jupyter.org/github/SDRLurker/data_starter_kit/blob/week3/week3_assignments.ipynb
+* https://nbviewer.jupyter.org/github/SDRLurker/data_starter_kit/blob/week3/week3/week3_assignments.ipynb
 
 ### Assignment - 1
 
